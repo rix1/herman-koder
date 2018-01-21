@@ -1,0 +1,23 @@
+body {
+  font-family: "Marker Felt";
+  font-size: 32px;
+
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+.overskrift {
+  color: rgb(198, 25, 196);
+  font-weight: 500;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-wrapper {
+  margin: 0 auto;
+  max-width: 30rem;
+}
